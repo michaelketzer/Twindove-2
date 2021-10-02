@@ -192,7 +192,7 @@ a.back-to-top:hover,a.back-to-top:focus{text-decoration:none;}
 #hero-area .contents p{color:#ddd;}
 #hero-area .contents .header-button{margin-top:2rem;color:#222;}
 #hero-area .contents .header-button .btn{margin-right:10px;}
-.second-hero-bg{background-image:url(assets/img/twindove3.jpg);background-position:center center;background-repeat:no-repeat;background-size:cover;max-height:400px;position:relative;overflow:hidden;color:#fff;}
+.second-hero-bg{background-image:url(assets/img/twindove3.webp);background-position:center center;background-repeat:no-repeat;background-size:cover;max-height:400px;position:relative;overflow:hidden;color:#fff;}
 .second-hero-bg h1{font-family:Rubik, sans-serif;font-size:3rem;font-weight:700;margin-bottom:2rem;}
 .second-hero-bg p{margin:4rem;}
 .contact-form-area{padding:3rem 0;}
